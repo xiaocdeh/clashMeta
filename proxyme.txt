@@ -1,4 +1,4 @@
 payload:
-  - 'adeuxy.com'
-  - 'xiaomitools.com'
-  - 'hyruleworks.com'
+  - '+.adeuxy.com'
+  - '+.xiaomitools.com'
+  - '+.hyruleworks.com'
