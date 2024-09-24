@@ -2,3 +2,4 @@ payload:
   - '+.adeuxy.com'
   - '+.xiaomitools.com'
   - '+.hyruleworks.com'
+  - '+.trkless.com'
