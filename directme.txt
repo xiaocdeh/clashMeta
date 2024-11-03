@@ -1,2 +1,2 @@
 payload:
-  - 'msn.com'
+  - '+.msn.com'
