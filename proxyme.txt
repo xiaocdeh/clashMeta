@@ -3,3 +3,4 @@ payload:
   - '+.xiaomitools.com'
   - '+.hyruleworks.com'
   - '+.trkless.com'
+  - '+.opendesktop.org'
